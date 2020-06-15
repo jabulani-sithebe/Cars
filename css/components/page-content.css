@@ -1,0 +1,15 @@
+.page-content {
+	margin-left: 200px;
+	color: darkblue;
+}
+
+#page-cars {
+	height: 400px;
+	width: 650px;
+	margin-left: 330px;
+	border-radius: 5px;
+}
+
+.page-content h1, p {
+	text-align: center;
+}

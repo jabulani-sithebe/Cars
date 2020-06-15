@@ -1,0 +1,22 @@
+.card-white {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border:1px;
+	margin-bottom: 15px;
+	padding: 5px;
+	border-radius: 5px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+
+
+}
+.card-white img {
+	height: 100px;
+	width: 100px;
+	border-radius: 5px;
+
+}
+
+.card-white:hover{
+	background-color:  lightgrey;
+}
